@@ -1,0 +1,1 @@
+This is a C# Implementation of https://github.com/meld-cp/obsidian-encrypt
